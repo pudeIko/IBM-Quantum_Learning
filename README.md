@@ -6,7 +6,7 @@ The content covers a wide range of topics, from the fundamentals of quantum info
 
 ---
 
-<table>
+<table style="width: 80%;">
   <tr>
     <th>Source</th>
     <th>Course</th>
